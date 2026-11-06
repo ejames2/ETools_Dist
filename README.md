@@ -34,3 +34,16 @@ The bookmarks are editable, and can be attached to either a system or a planetar
 <img width="2385" height="1225" alt="image" src="https://github.com/user-attachments/assets/6915e747-0a9b-438e-825e-8cbc701d74c2" />
 
 For now this is a placeholder more than anything.  It will be populated with useful information in the future.
+
+## Asteroid Mining Tab
+
+### Last Prospect
+Displays the prospecting information for the last asteroid prospected.
+
+### Cargo
+Displays your cargo and the amount of free space on your current ship.
+
+## Surface Mining Tab
+
+This will keep track of surface mining locations and the deposits in those locations.
+It will also display a live map of the current surface location with the deposits and your position maked.
