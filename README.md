@@ -95,7 +95,7 @@ Displays your current cargo inventory and the amount of remaining cargo space on
 
 ## Surface Mining Tab
 
-*Planned Feature*
+*re-write in progrss*
 
 This tab will track surface mining locations and the deposits discovered at those locations.
 
