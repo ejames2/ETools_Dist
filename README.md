@@ -8,6 +8,7 @@ ETools is a companion application for **Elite Dangerous** designed to run on a s
 > - No external services are required.
 > - Your data remains on your computer and is never uploaded or shared.
 
+Note: This is a work in progress soon to be in Alpha release.
 
 <a id="table-of-contents"></a>
 
