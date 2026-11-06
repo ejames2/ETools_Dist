@@ -2,6 +2,23 @@
 
 ETools is a companion application for **Elite Dangerous** designed to run on a secondary monitor while you play the game.
 
+<a id="table-of-contents"></a>
+
+## Table of Contents
+
+- [Current Features](#current-features)
+- [Exploration Tab](#exploration-tab)
+- [Bookmark Tab](#bookmark-tab)
+- [Commander Tab](#commander-tab)
+- [Asteroid Mining Tab](#asteroid-mining-tab)
+  - [Last Prospect](#last-prospect)
+  - [Cargo](#cargo)
+- [Surface Mining Tab](#surface-mining-tab)
+- [Search Tab](#search-tab)
+  - [Search System](#search-system)
+  - [Nearest System List](#nearest-system-list)
+  - [Nearby Ring Hotspots](#nearby-ring-hotspots)
+
 ## Current Features
 
 - Exploration, including estimated income from biological samples
@@ -35,6 +52,8 @@ This tab displays all explored bodies in the current system, including:
   Hover over an icon to view additional details.
 
 - **Other**: Lists discovered ring hotspots and scanned biological signals.
+
+[Back to Top](#table-of-contents)
 
 ## Bookmark Tab
 
@@ -72,20 +91,32 @@ It will also display a live map of the current surface site, showing:
 - Your current position
 - Other relevant mining information
 
+---
+
 ## Search Tab
 
-This tab lets you perform various searches:
+The Search tab provides several tools for locating systems, previously explored locations, and mining opportunities.
 
 ### Search System
-* Search for and display a specific system.
-<img width="2031" height="1468" alt="image" src="https://github.com/user-attachments/assets/30415a50-3f28-4461-b5d2-d229bac1276a" />
 
+Search for and display information about a specific star system.
+
+![Search System](https://github.com/user-attachments/assets/30415a50-3f28-4461-b5d2-d229bac1276a)
 
 ### Nearest System List
-* Enter the LY distance and the maximum number of results to get a list of the nearest systems you have explored in order of distance from the nearest to the furthest.
-<img width="1953" height="1529" alt="image" src="https://github.com/user-attachments/assets/07632123-a521-4e36-9eb6-6c90694ca734" />
+
+Enter a search radius (in light-years) and the maximum number of results to generate a list of nearby systems that you have previously explored.
+
+Results are sorted by distance from your current location, from nearest to farthest.
+
+![Nearest System List](https://github.com/user-attachments/assets/07632123-a521-4e36-9eb6-6c90694ca734)
+
+### Nearby Ring Hotspots
+
+Enter a search radius (in light-years) and the maximum number of results to generate a list of nearby planetary bodies containing ring hotspots that you have scanned.
+
+Results are sorted by distance from your current location, making it easy to locate previously discovered mining opportunities.
+
+![Nearby Ring Hotspots](https://github.com/user-attachments/assets/ce2bc3fa-de76-44a2-8513-ad78788d2c69)
 
 
-### Nearby Ring Hot Spots
-* Enter the LY distance and the maximum number of results to get a list of the nearest planetary bodies with ring hotspots that you have scanned.
-<img width="1949" height="1888" alt="image" src="https://github.com/user-attachments/assets/ce2bc3fa-de76-44a2-8513-ad78788d2c69" />
