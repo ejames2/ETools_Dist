@@ -63,11 +63,15 @@ Bookmarks are organized into folders. Within each folder, bookmarks are automati
 
 Bookmarks can be edited and may be attached to either a star system or a specific planetary body.
 
+[Back to Top](#table-of-contents)
+
 ## Commander Tab
 
 ![Commander Tab](https://github.com/user-attachments/assets/6915e747-0a9b-438e-825e-8cbc701d74c2)
 
 This tab is currently a placeholder and will be expanded with additional commander-related information and tools in future releases.
+
+[Back to Top](#table-of-contents)
 
 ## Asteroid Mining Tab
 
@@ -78,6 +82,8 @@ Displays prospecting information for the most recently prospected asteroid.
 ### Cargo
 
 Displays your current cargo inventory and the amount of remaining cargo space on your ship.
+
+[Back to Top](#table-of-contents)
 
 ## Surface Mining Tab
 
@@ -91,7 +97,7 @@ It will also display a live map of the current surface site, showing:
 - Your current position
 - Other relevant mining information
 
----
+[Back to Top](#table-of-contents)
 
 ## Search Tab
 
@@ -119,4 +125,4 @@ Results are sorted by distance from your current location, making it easy to loc
 
 ![Nearby Ring Hotspots](https://github.com/user-attachments/assets/ce2bc3fa-de76-44a2-8513-ad78788d2c69)
 
-
+[Back to Top](#table-of-contents)
