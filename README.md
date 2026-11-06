@@ -18,7 +18,7 @@ ETools is a companion application for **Elite Dangerous** designed to run on a s
   - [Search System](#search-system)
   - [Nearest System List](#nearest-system-list)
   - [Nearby Ring Hotspots](#nearby-ring-hotspots)
-
+- [Installation](#installation)
 ## Current Features
 
 - Exploration, including estimated income from biological samples
@@ -124,5 +124,11 @@ Enter a search radius (in light-years) and the maximum number of results to gene
 Results are sorted by distance from your current location, making it easy to locate previously discovered mining opportunities.
 
 ![Nearby Ring Hotspots](https://github.com/user-attachments/assets/ce2bc3fa-de76-44a2-8513-ad78788d2c69)
+
+[Back to Top](#table-of-contents)
+
+## Installation
+
+Coming Soon!
 
 [Back to Top](#table-of-contents)
