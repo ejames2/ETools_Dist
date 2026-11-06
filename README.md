@@ -1,6 +1,13 @@
 # ETools_Dist
 
-ETools is a companion application for **Elite Dangerous** designed to run on a secondary monitor while you play the game.
+ETools is a companion application for **Elite Dangerous** designed to run on a secondary monitor while you play. By reading the game's Journal files, ETools provides real-time information about your exploration, mining, and other in-game activities.
+
+> **Privacy**
+>
+> - ETools currently uses only data from your local Elite Dangerous Journal files.
+> - No external services are required.
+> - Your data remains on your computer and is never uploaded or shared.
+
 
 <a id="table-of-contents"></a>
 
